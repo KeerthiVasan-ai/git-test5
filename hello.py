@@ -1,4 +1,4 @@
 def hello():
-    print("Hello"*20)
+    print("\n Hello"*20)
 
 hello()
